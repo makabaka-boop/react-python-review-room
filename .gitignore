@@ -1,0 +1,6 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+backend/review.db
+.DS_Store
